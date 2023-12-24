@@ -1,0 +1,16 @@
+Back to Menu or Exit (1 | 0): 
+Goodbye to you!
+No function!
+Loading
+Do Cleaning
+-> Successful implementation <-
+Enter your current location: 
+Enter the location you need to go to: 
+The path to get you to 
+Enter the number of vertices of the graph: 
+Enter vertex name: 
+Please enter the value in the graph (0 or 1)!
+Map is empty! Please update the Map again.
+LIST OF PLACES
+Note: [0 - 23]: Location of Locations
+No path!

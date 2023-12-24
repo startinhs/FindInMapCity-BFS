@@ -1,0 +1,16 @@
+Quay lai Menu hoac Thoat (1 | 0): 
+Tam biet ban nhe!
+Khong co chuc nang!
+Dang tai
+Dang xoa
+-> Thuc hien thanh cong <-
+Nhap vi tri hien tai cua ban: 
+Nhap vi tri ban can den: 
+Duong dan giup ban di den 
+Nhap so dinh cua Do thi: 
+Nhap ten dinh: 
+Vui long nhap gia tri cua Do thi (0 hoac 1)!
+Ban Do dang Rong! Vui long cap nhat lai Ban Do.
+DANH SACH CAC DIA DIEM
+Ghi chu: [0 - 23]: Vi tri cua cac Dia Diem
+Khong co duong di!
